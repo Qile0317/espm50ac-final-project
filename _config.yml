@@ -26,7 +26,7 @@ url: ""
 github_username:  Qile0317
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
