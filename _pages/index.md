@@ -1,4 +1,5 @@
 ---
+permalink: /
 layout: splash
 classes:
   - landing
@@ -12,6 +13,7 @@ header:
       url: "/main/"
 intro: 
   - excerpt: "Sweden has long been known for its liberal immigration policies, but in recent years, these policies have faced significant challenges. This project explores the consequences of these policies, focusing on key events, socio-political consequences, and the reversal of the country’s historically liberal stance on immigration. It emphasizes the 2015 refugee crisis, its effects on Sweden’s public services, and how environmental and natural resource challenges intertwine with immigration. This project is my attempt at explaining this event in an unbiased and informative manner. Any parts that may be interpreted as prejudiced or discriminatory are unintentional."
+  
 ---
 
 {% include feature_row id="intro" type="center" %}
