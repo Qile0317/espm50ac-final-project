@@ -1,8 +1,10 @@
 main:
-  - title: Immigration Crisis
+  - title: Refugee Influx
     url: /main#the-2015-immigrant-crisis
   - title: Impacts
     url: /main#short-term-impacts
+  - title: Environmental maintanence
+    url: /main#environmental-and-natural-resource-impacts
   - title: Political Change
     url: /main#shifting-of-public-sentiment-and-policies
   - title: Annotated Bib
