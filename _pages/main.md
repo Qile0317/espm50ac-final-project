@@ -1,21 +1,30 @@
 ---
+# general page settings
 layout: single
 permalink: /main/
 toc: true
 toc_label: "Contents"
 toc_sticky: true
 toc_icon: "cog"
+
+# immigrant crisis
+ic_gallery:
+    - image_path: https://www.crisisgroup.org/sites/default/files/Syria-QandA-15March2021-1.jpg
+    - image_path: https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2018_27/2489541/180706-migrants-greece-boat-2015-ac-535p.jpg
+    - image_path: https://www.telegraph.co.uk/multimedia/archive/03521/refugees-sweden_3521174b.jpg
 ---
 
 # The 2015 Immigrant Crisis
 
-In 2015, a series of events led to a massive influx of refugees and migrants into Europe. Sweden took in over 160,000 refugees in 2015, more per capita than any other country in Europe (other than Turkey). The main drivers of this crisis were the ongoing conflicts in Syria, Afghanistan, and other countries, as well as political instability and environmental degradation in the region. Here is a non-comprehensive list:
+In 2015, a series of events led to a massive influx of refugees and migrants into Europe. Sweden took in over 160,000 refugees in 2015, more per capita than any other country in Europe (other than Turkey). The main drivers of this crisis were the ongoing conflicts in Syria, Afghanistan, and other countries, as well as political instability and environmental degradation in the region. Here is a non-comprehensive list of the largest contributing factors:
 
 > - **Syrian Civil War**: The Arab Spring protests in 2011 escalated into a full-blown civil war in Syria, displacing millions of people. Existing issues like water scarcity, land degradation, and food insecurity in the region were exacerbated, leading to poor resource management and further strain on already stressed ecosystems; this, in turn, contributed to social unrest and migration patterns, creating a vicious cycle between environmental and political instability.
 > - **Afghanistan Conflict**: The presence of Taliban insurgents and ongoing civil conflict in Afghanistan forced many people to flee their homes in search of safety and security.
 > - **Boko Haram Insurgency**: An armed rebellion by the Islamist group Boko Haram in Nigeria and neighboring countries led to widespread displacement.
 
-The vast majority of asylum seekers in Sweden came from Syria, Afghanistan, and Iraq, and Sweden's open border policy and generous welfare system made it an attractive destination for refugees. It took 12.4% of all asylum seekers in the EU in 2015 - the highest per capita - leading to a 108% increase in asylum applications compared to 2014.
+{% include gallery id="ic_gallery" caption="Some syrian refugees, their journey to Europe, and arrival in Sweden." %}
+
+The vast majority of asylum seekers in Sweden came from Syria, Afghanistan, and Iraq. Generally, Sweden's open border policy and generous welfare system made it an attractive destination for refugees. It took 12.4% of all asylum seekers in the EU in 2015 - one of the highest per capita in the EU - leading to a 108% increase in asylum applications compared to 2014.
 
 # Sweden’s Immigration Policy: From Open Doors to Restrictions
 
