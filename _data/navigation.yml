@@ -1,5 +1,5 @@
 main:
-  - title: Home
-    url: /
+  - title: Immigration Crisis # or split into #sections on main
+    url: /main#roots-of-the-2015-refugee-crisis
   - title: Annotated Bib
     url: /annotated-bib/

@@ -33,3 +33,6 @@ plugins:
 
 # site settings for minimal mistakes
 minimal_mistakes_skin: "dark"
+search: true
+lunr:
+  search_within_pages: true
