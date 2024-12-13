@@ -36,17 +36,27 @@ The following are a list of changes observed in Swedish societies after the init
 - **Labor Market:** Municipalities with higher refugee inflows experienced increased unemployment and reduced wage levels. There were more displaced local workers and reduced tax revenues, straining local economies.
 - **Crime Rates:** Assault and fraud-related crimes per capita rose in areas with more refugees. However, some types of crimes, such as theft, showed negative correlations with refugee presence. (This data is from a single master's thesis and should be taken with caution.)
 
-# Environmental and Natural Resource Pressures
 
-TODO
 
 <!-- The influx of refugees has placed significant strain on Sweden's public services, housing, and environmental resources. Refugee-hosting areas, especially urban centers, have faced challenges in providing adequate housing, healthcare, and educational services. Additionally, Sweden’s commitment to environmental sustainability has been tested by these growing demands. -->
 
-# Point of controversy: Longterm increase of crime rates among immigrants
+# Point of controversy: Semi-Longterm increase of crime rates among immigrants
 
 While migration has generally been promoted as beneficial before the refugee influx, quantitative crime statistics challenge this notion. A 2017 study found that 58% of crime suspects were migrants, rising to 73% for murder and manslaughter, with Sweden’s murder rate quadrupling in recent decades.
 
 TODO
+
+# Segregation of immigrants
+
+A 2020 paper showed that the influx of foreign-born populations has resulted in migrant and ethnic concentrations that frequently overlap with areas of concentrated poverty. The authors demonstrated that residential sorting by income is strongly tied to ethnic concentration. The findings suggest that "ethnic preferences, influenced by budgetary limitations, lead to persistent immigrant clustering".
+
+In metropolitan dense settlements, there is a marked income gradient across neighborhoods with varying foreign-born concentrations. This gradient is especially pronounced for Swedish-born individuals with non-Swedish backgrounds and foreign-born individuals, while weaker for Swedish-born individuals with Swedish backgrounds. However, outside dense settlements, income gradients are negligible for Swedish-born individuals irrespective of background, though some signs exist for foreign-born individuals.
+
+These results suggest that with the increasing migrant densities, (especially in urban areas) it has accelerated the lowering of average incomes for neighborhoods with high foreign-born concentrations. This polarization and its persistence and worsening overtime is quite similar to many historical cases (such as the racial & income segregation observed among people of African American origin in New Orleans, USA) despite modern day Sweden's low levels of systemic racism especially compared to historical cases.
+
+# Environmental and Natural Resource Impacts
+
+A somewhat overlooked aspect of the refugee crisis is its environmental impact and the needs for natural resources it brings. A unique 2023 study found that the influx of refugees (including before and after 2015) actually *reduced* the greenhouse gas (GHG) emissions per capita. The authors suggested that this may be due to the developed resettlement programs, large land mass per capita, and environmentally conscious policies. Additionally, higher natural resource rents in Sweden reduce GHG emissions, attributed to resource reuse, renewable energy development, and reduced dependence on fossil fuels. 
 
 # Shifting of public sentiment and policies
 
@@ -55,6 +65,10 @@ Initially, the country adopted a strong humanitarian position, reflected in medi
 {% include figure popup=true caption="Swedes' welcoming attitude" image_path="https://i.cbc.ca/1.3315412.1447332514!/fileImage/httpImage/dv2125094.jpg"%}
 
 Just months after the largest wave of refugees arrived, the government introduced significant restrictions, including tightened border controls, temporary residency for protection beneficiaries, and stricter self-sufficiency requirements in November 2015. These measures aimed to manage the strain on resources and encourage a more equitable distribution of refugee responsibility across EU states. The changes were framed as undesirable but necessary to safeguard societal trust and ensure long-term sustainability. This marked an end to its uniquely welcoming attitude towards all refugees. The temporary measures later became more permanent, with further shifts like compulsory language requirements for citizenship. This reorientation reflected a broader European trend of emphasizing integration and shared responsibility over open-door policies.
+
+More recently, according to [former Swedish prime minister Magdalena Andersson,](https://www.theguardian.com/world/2022/apr/28/swedens-failed-integration-creates-parallel-societies-says-pm-after-riots) Sweden has "failed to integrate many of the immigrants who have settled there over the past 20 years, creating a nation of parallel societies... living in different realities." This was said in response to the riots in 2022-2023. This links to the aforementioned segregation that pairs with the inability to properly allow immigrants to immerse themselves in Swedish society. The specific riot mentioned was the result of an anti-immigrant provocateur, the Danish-Swedish politician Rasmus Paludan that threatened to tour the country burning the Qu'ran.
+
+All this results in Sweden now having  one of Europe’s most restrictive policies along with neighbouring Denmark.
 
 ## Key Policy Milestones
 
@@ -73,3 +87,4 @@ TODO
 - [policy changes in sweden](https://link.springer.com/article/10.1186/s40878-019-0169-8)
 - [short term impacts of refugees in Sweden](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3762176)
 - [migrants and crime](https://link.springer.com/article/10.1007/s12115-019-00436-8)
+- [segregation](https://onlinelibrary.wiley.com/doi/10.1111/gean.12250)
