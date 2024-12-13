@@ -21,9 +21,6 @@
 title: ESPM 50AC Final Project
 description: >- # this means to ignore newlines until "baseurl:"
   Final Project for the ESPM 50AC course at UC Berkeley, Fall 2024. By Qile Yang.
-baseurl: ""
-url: ""
-github_username:  Qile0317
 
 # Build settings
 theme: minimal-mistakes-jekyll
@@ -36,3 +33,11 @@ minimal_mistakes_skin: "dark"
 search: true
 lunr:
   search_within_pages: true
+footer:
+  links:
+    - label: "Sourcecode"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Qile0317/espm50ac-fp-fa24"
+    - label: "Fair Use Disclaimer"
+      icon: "fas fa-fw fa-balance-scale"
+      url: "/fair-use/"

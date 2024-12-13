@@ -7,13 +7,21 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-# Roots of the 2015 Refugee Crisis
+# The 2015 Immigrant Crisis
 
-The 2015 refugee crisis was driven by a combination of factors, including armed conflicts, political instability, and environmental degradation. Major crises in Syria, Afghanistan, and other regions pushed millions of people to flee their homes. Additionally, environmental factors like droughts and resource scarcity played a key role in pushing people across borders.
+In 2015, a series of events led to a massive influx of refugees and migrants into Europe. Sweden took in over 160,000 refugees in 2015, more per capita than any other country in Europe (other than Turkey). The main drivers of this crisis were the ongoing conflicts in Syria, Afghanistan, and other countries, as well as political instability and environmental degradation in the region. Here is a non-comprehensive list:
+
+> - **Syrian Civil War**: The Arab Spring protests in 2011 escalated into a full-blown civil war in Syria, displacing millions of people. Existing issues like water scarcity, land degradation, and food insecurity in the region were exacerbated, leading to poor resource management and further strain on already stressed ecosystems; this, in turn, contributed to social unrest and migration patterns, creating a vicious cycle between environmental and political instability.
+> - **Afghanistan Conflict**: The presence of Taliban insurgents and ongoing civil conflict in Afghanistan forced many people to flee their homes in search of safety and security.
+> - **Boko Haram Insurgency**: An armed rebellion by the Islamist group Boko Haram in Nigeria and neighboring countries led to widespread displacement.
+
+The vast majority of asylum seekers in Sweden came from Syria, Afghanistan, and Iraq, and Sweden's open border policy and generous welfare system made it an attractive destination for refugees. It took 12.4% of all asylum seekers in the EU in 2015 - the highest per capita - leading to a 108% increase in asylum applications compared to 2014.
 
 # Sweden’s Immigration Policy: From Open Doors to Restrictions
 
 Sweden’s immigration policy has undergone significant transformations since 2015. Initially, Sweden was known for its open-door policy to refugees, providing asylum to tens of thousands of people. However, the aftermath of the refugee crisis saw a shift towards more restrictive immigration measures.
+
+{% include figure popup=true image_path="https://i.cbc.ca/1.3315412.1447332514!/fileImage/httpImage/dv2125094.jpg"%}
 
 ## Key Policy Milestones:
 
@@ -28,3 +36,8 @@ The influx of refugees has placed significant strain on Sweden's public services
 # UNFINISHED
 
 text
+
+# Sources
+
+- [eurostat data for the 2015 immigration crisis in europe](https://ec.europa.eu/eurostat/documents/2995521/7203832/3-04032016-AP-EN.pdf/790eba01-381c-4163-bcd2-a54959b99ed6)
+- [arab spring](https://www.americanprogress.org/article/the-arab-spring-and-climate-change/)
