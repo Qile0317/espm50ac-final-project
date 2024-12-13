@@ -40,4 +40,4 @@ footer:
       url: "https://github.com/Qile0317/espm50ac-fp-fa24"
     - label: "Fair Use Disclaimer"
       icon: "fas fa-fw fa-balance-scale"
-      url: "/fair-use/"
+      url: "/espm50ac-fp-fa24/fair-use/" # hack fix
